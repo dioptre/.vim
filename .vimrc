@@ -10,6 +10,7 @@ filetype plugin on
 filetype indent on
 syntax on
 
+set mouse= "turn off mouse by default
 set tabstop=2
 set shiftwidth=2 " number of spaces used for autoindenting
 set ai
