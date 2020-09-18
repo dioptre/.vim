@@ -4,6 +4,7 @@ filetype off
 call pathogen#infect()
 
 let isWindowsHost = has('win32') || has('win16')
+let g:LustyExplorerSuppressRubyWarning = 1
 
 filetype on
 filetype plugin on
